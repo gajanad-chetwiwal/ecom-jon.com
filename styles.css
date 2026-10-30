@@ -183,9 +183,6 @@ section { padding: 88px 0; }
 .service p { margin-top: 12px; }
 
 /* About */
-.founder { max-width: 760px; }
-.founder p { margin-top: 14px; }
-.founder .role { color: var(--primary); font-weight: 600; margin-top: 4px; }
 
 /* Contact */
 .contact-grid { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 48px; align-items: start; }
